@@ -9,16 +9,20 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: João Pedro Silva Dantas
+- Matricula: 915802
+- Proposta de projeto escolhida: Lugares e experiencias entidade principal: Lugar entidade secundaria: Atividades
+- Breve descrição sobre seu projeto: campo de futebol publico, sem fins lucrativos
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
-
+![alt text](public/pagina_pc1.png)
+![alt text](public/pagina_pc2.png)
 <<  COLOQUE A IMAGEM AQUI >>
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
+![alt text](public/pag_mobile1.png)
+![alt text](public/pag_mobile2.png)
+![alt text](public/pagina_mobile3.png)
 
 <<  COLOQUE A IMAGEM AQUI >>
 
